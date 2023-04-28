@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.209ebb99.css",
+    "main.js": "/static/js/main.9149a74c.js",
+    "static/js/787.b829f917.chunk.js": "/static/js/787.b829f917.chunk.js",
+    "static/media/bellatrix.jpg": "/static/media/bellatrix.61c5284662e54d0543c2.jpg",
+    "static/media/dudley.jpg": "/static/media/dudley.bcf99b06a5e8a1fa9f66.jpg",
+    "static/media/minerva.jpg": "/static/media/minerva.4345823658d4c8055050.jpg",
+    "static/media/draco.jpg": "/static/media/draco.6f193c6a160be69e66dd.jpg",
+    "static/media/molly.jpg": "/static/media/molly.5ba0f318b668cf50366a.jpg",
+    "static/media/baby.jpg": "/static/media/baby.e610ce9eb8a785af2f16.jpg",
+    "static/media/ginny.jpg": "/static/media/ginny.c846e2e2da4dcb14254d.jpg",
+    "static/media/myrtle.png": "/static/media/myrtle.e46534a9d98e8ec36162.png",
+    "static/media/albus.jpg": "/static/media/albus.c4d5d7d3ef6f24b462e1.jpg",
+    "static/media/hat.webp": "/static/media/hat.90d67e96da014f6e0277.webp",
+    "static/media/div.jpg": "/static/media/div.838cf30a5fbf314ce7bd.jpg",
+    "static/media/hermione.jpg": "/static/media/hermione.ccf5cf6329bcaa199420.jpg",
+    "static/media/rubeus.jpg": "/static/media/rubeus.6363ab37de02a4e971bc.jpg",
+    "index.html": "/index.html",
+    "main.209ebb99.css.map": "/static/css/main.209ebb99.css.map",
+    "main.9149a74c.js.map": "/static/js/main.9149a74c.js.map",
+    "787.b829f917.chunk.js.map": "/static/js/787.b829f917.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.209ebb99.css",
+    "static/js/main.9149a74c.js"
+  ]
+}
